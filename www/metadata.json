@@ -1,0 +1,21 @@
+{
+  "title": "Elastodynamics",
+  "appName": "elastodynamics",
+  "camelizedAppName": "elastodynamics",
+  "description": "",
+  "ghOrgOrUser": "rreusser",
+  "metaTags": {
+    "site": "Elastodynamics",
+    "title": "Elastodynamics",
+    "description": "",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Elastodynamics",
+    "twitter:site": "@your_twitter_handle",
+    "twitter:description": "",
+    "twitter:image": "images/screenshot.png",
+    "og:image": "images/screenshot.png",
+    "og:site_name": "Elastodynamics",
+    "og:title": "Elastodynamics",
+    "og:description": ""
+  }
+}
